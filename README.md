@@ -101,6 +101,17 @@ Flask-Migrate helps manage database migrations. Follow these steps:
      flask db upgrade
      ```
 
+   - Check the migration history:
+      ```bash
+      flask db history
+      ```
+   
+   - Override the migration:
+      ```bash
+      flask db stamp <revision_id>  # Specific revision
+
+      flask db stamp head           # Last revision
+      ```
 ---
 
 ## Key Features
