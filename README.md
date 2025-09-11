@@ -17,7 +17,8 @@ This template is ideal for developers looking to build scalable and secure APIs 
 ## Installation
 
 ### Step 1: Fork the Repository
-1. Fork this repository on GitHub to your own account.
+1. Fork this repository on GitHub to your own account (https://github.com/dmmuralitharan/flask_backend_app_template).
+   
 
 ### Step 2: Create a New Repository from the Template
 1. Click the **"Use this template"** button on the GitHub repository page.
